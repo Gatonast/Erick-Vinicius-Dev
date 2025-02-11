@@ -1,8 +1,6 @@
 # Hi there, I'm @Gatonast 👋
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/suit-gif-26684439/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlsempicGo0dHZzNmFjYTgzMTVuaTloeGRrbjNjOGZnanZxdG5obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif)" width="100%">
-</div>
+<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/3o7qE1YN7aBOFPRw8E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vr-bigblueboo-rescuties-3o7qE1YN7aBOFPRw8E">via GIPHY</a></p>
 
 
 Welcome to my GitHub! I'm a freelancer developer and an IT student looking for an internship. I'm passionate about web development and aim to create amazing digital experiences.
