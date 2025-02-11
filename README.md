@@ -1,7 +1,7 @@
 # Hi there, I'm @Gatonast 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/suit-gif-26684439/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/suit-gif-26684439/giphy.gif" width="100%">
 </div>
 
 
