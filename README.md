@@ -1,8 +1,9 @@
 # Hi there, I'm @Gatonast 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/suit-gif-26684439/giphy.gif" width="200">
 </div>
+
 
 Welcome to my GitHub! I'm a freelancer developer and an IT student looking for an internship. I'm passionate about web development and aim to create amazing digital experiences.
 
